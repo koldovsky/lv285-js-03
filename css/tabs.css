@@ -1,0 +1,11 @@
+nav.buttons .active {
+    font-weight: bold;
+}
+
+div.tabs div {
+    display: none;
+}
+
+div.tabs div.active {
+    display: block;
+}
